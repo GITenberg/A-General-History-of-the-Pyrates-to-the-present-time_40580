@@ -1,0 +1,43 @@
+_repo: A-General-History-of-the-Pyrates-to-the-present-time_40580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2012-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40580'
+  lccn: 02015922
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Early works to 1800'
+- !lcc 'G'
+- !lcc 'F2155'
+tableOfContents: The preface -- Introduction -- Of Captain Avery, and his crew --
+  Of Captain Martel, and his crew -- Of Captain Teach, alias Black-Beard -- Of Major
+  Stede Bonnet, and his crew -- Of Capt. Edw. England, and his crew -- Of Capt. Chales
+  Vane, and his crew -- Of Capt. Rackam, and his crew -- The life of Mary Read --
+  The life of Anne Bonny -- Of Capt. Howell Davis, and his crew -- Of Capt. Bar. Roberts,
+  and his crew -- Of Capt. Anstis, and his crew -- Of Capt. Worley, and his crew --
+  Of Capt. Low and his crew -- Of Capt. John Evans and his crew -- Of Capt. John Phillips,
+  and his crew -- Of Captain Spriggs, and his crew.
+title: "A General History of the Pyrates:\r\nfrom their first rise and settlement\
+  \ in the island of Providence, to the present time"
+url: http://www.gutenberg.org/ebooks/40580
